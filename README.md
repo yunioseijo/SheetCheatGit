@@ -74,7 +74,9 @@
 
 21. `git branch -d nombre-rama`
     - Elimina una rama local.
-
+21.2 `git push origin --delete nombre-rama`
+    - Elimina una rama del repositorio remoto.
+      
 22. `git checkout nombre-rama`
     - Cambia a una rama específica.
 
